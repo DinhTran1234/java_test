@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ibm {
+public class  ibm {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double weight, height, bmi;
